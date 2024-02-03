@@ -1,7 +1,7 @@
 import React from "react";
 
 const Filter = () => {
-  return <div>Filter</div>;
+  return <div>O nas</div>;
 };
 
 export default Filter;
